@@ -1,3 +1,9 @@
 # willberries - учебный проект.
 Сделал как мог
-HTML, CSS, Bootstrap, Swiper Slider
+## Языки:
+- HTML
+- CSS
+- JS 
+## Библиотеки
+- Bootstrap
+- Swiper Slider
